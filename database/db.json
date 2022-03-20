@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "Sid",
+      "email": "sid@abc",
+      "password": "abc123",
+      "id": "1"
+    },
+    {
+      "name": "Hrid",
+      "email": "hrid@abc",
+      "password": "hrid123",
+      "id": "2"
+    },
+    {
+      "name": "Hrid1",
+      "email": "hr1id@abc",
+      "password": "hrid123a",
+      "id": "3"
+    },
+    {
+      "name": "chhh",
+      "email": "jjggg",
+      "password": "llkuhg",
+      "id": "4"
+    },
+    {
+      "email": "jjggsv",
+      "name": "bagf",
+      "password": "nnzgn",
+      "id": "5"
+    },
+    {
+      "email": "jnnst",
+      "name": "nnzj",
+      "password": "zmxg",
+      "id": "6"
+    }
+  ]
+}
